@@ -1,5 +1,7 @@
 # FPS Horror Game
 
+play at https://eb56.github.io/horror-maze-js/
+
 An immersive first-person shooter horror game built with HTML, JavaScript, and Three.js featuring advanced lighting, monster AI, and atmospheric effects.
 
 ## How to Run
